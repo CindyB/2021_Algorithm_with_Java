@@ -5,7 +5,7 @@
 
 ## 🌈기간
 
-#### 2021-08-03~
+#### 2021-08-02~
 
 &nbsp;
 
@@ -24,6 +24,7 @@
 
 &nbsp;
 ### ⬜ Study1
+[2021-08-03] ~
 - Who? SSAFY
 - When? every Tuesday at 8:30 pm
 - How? Online
@@ -48,6 +49,7 @@
 
 &nbsp;
 ### ⬛ Study2
+[2021-08-08] ~
 - Who? SJU
 - When? every Sunday at 9 pm
 - How? Online
