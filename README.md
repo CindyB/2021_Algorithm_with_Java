@@ -60,7 +60,7 @@
 |        |                      1                       |                         2                         |                          3                          |                           4                           |                         5                         |                           비고                           |
 | :----: | :------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------------: |
 | 1주차  | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [단어 공부](https://www.acmicpc.net/problem/1157) | [단어의 개수](https://www.acmicpc.net/problem/1152) | 문자열 |
-| 2주차  |                                              |                                                   |                                                     |                                                       |                                                   |                                                          |
+| 2주차  | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)  | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |  [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)  | [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)| [단어섞기](https://www.acmicpc.net/problem/9177) |                                                          |
 | 3주차  |                                              |                                                   |                                                     |                                                       |                                                   |                                                          |
 | 4주차  |                                              |                                                   |                                                     |                                                       |                                                   |                                                          |
 | 5주차  |                                              |                                                   |                                                     |                                                       |                                                   |                                                          |
@@ -99,10 +99,22 @@
 - [SW Expert] 1233 [BOJ] 1158, 253
 - [BOJ] 16926, 17406
 - [SW Expert] 6808 [BOJ] 3040
--
+- [BOJ] 15686, 17135
 </div>
 </details>
 
+<details>
+<summary>Week 3</summary>
+  
+<div markdown="1">      
+  
+- 
+- 
+- 
+- 
+- 
+</div>
+</details>
 
 &nbsp;
 ## 👩 기록
@@ -110,4 +122,7 @@
 ![image](https://user-images.githubusercontent.com/46207314/128809615-f5fd7352-6e29-4f9c-8c0d-2d9e905ce849.png)
 #### 2021-08-12 기준
 ![image](https://user-images.githubusercontent.com/46207314/129075304-a006d4c6-3dd8-471f-90a8-3f02fff7ae42.png)
+#### 2021-08-16 기준
+![image](https://user-images.githubusercontent.com/46207314/129487784-d6ff77ee-a541-4596-b42c-740b92d4fea0.png)
+
 
