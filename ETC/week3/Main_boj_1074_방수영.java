@@ -20,34 +20,36 @@ public class Main_boj_1074_방수영 {
 		C = Integer.parseInt(st.nextToken());
 
 		int tmp = N;
-		System.out.println(func(R, C, N));
+		System.out.println(func(R, C, tmp));
 	}
 
 	private static int func(int r, int c, int tmp) {
-		
 
 		if (tmp == 1) {
-			if (r == 0 && c == 0)
+			if (r % 2 == 0 && c % 2 == 0)
 				return 0;
-			if (r == 0 && c == 1)
+			if (r % 2 == 0 && c % 2 == 1)
 				return 1;
-			if (r == 1 && c == 0)
+			if (r % 2 == 1 && c % 2 == 0)
 				return 2;
-			if (r == 1 && c == 1)
+			if (r % 2 == 1 && c % 2 == 1)
 				return 3;
+
 		}
-
-		int nrCnt = r-exp2(2,tmp-1)>=0 ? r-exp2(2,tmp-1) : r;
-		int ncCnt = c-exp2(2,tmp-1)>=0 ? c-exp2(2,tmp-1) : c;
-
-		result += func(nrCnt, ncCnt, tmp-1);
-
-		if (r > 1)
-			result += exp2(2, tmp * 2 - 1);
-		if (c > 1)
-			result += exp2(2, (tmp - 1) * 2);
-
-		return result;
+		if (r < exp2(2, tmp - 1)) {
+			if (c < exp2(2, tmp - 1)) {
+				return func(r, c, tmp - 1);
+			} else {
+				return exp2(2, tmp - 1) * exp2(2, tmp - 1) + func(r, c - exp2(2, tmp - 1), tmp - 1);
+			}
+		} else {
+			if (c < exp2(2, tmp - 1)) {
+				return 2 * exp2(2, tmp - 1) * exp2(2, tmp - 1) + func(r - exp2(2, tmp - 1), c, tmp - 1);
+			} else {
+				return 3 * exp2(2, tmp - 1) * exp2(2, tmp - 1)
+						+ func(r - exp2(2, tmp - 1), c - exp2(2, tmp - 1), tmp - 1);
+			}
+		}
 
 	}
 
@@ -64,5 +66,4 @@ public class Main_boj_1074_방수영 {
 
 		return result;
 	}
-
 }
