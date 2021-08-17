@@ -3,7 +3,7 @@ package com.ssafy.algo11;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_2839_방수영 {
+public class Main_boj_2839_방수영 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
