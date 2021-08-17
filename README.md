@@ -33,7 +33,7 @@
 | :----: | :--------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------: |
 | 1주차  |  [터렛](https://www.acmicpc.net/problem/1002)  |  [수열 정렬](https://www.acmicpc.net/problem/1015)  | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [어린 왕자](https://www.acmicpc.net/problem/1004) |   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
 | 2주차  | [주사위](https://www.acmicpc.net/problem/1041) | [유기농 배추](https://www.acmicpc.net/problem/1012) |  [수열의 합](https://www.acmicpc.net/problem/1024)  | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [토너먼트](https://www.acmicpc.net/problem/1057)  | [섬의개수](https://www.acmicpc.net/problem/4963), [별찍기-10](https://www.acmicpc.net/problem/2447), [공항](https://www.acmicpc.net/problem/10775), [미로탐색](https://www.acmicpc.net/problem/2178) |
-| 3주차  |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
+| 3주차  | [Contact](https://www.acmicpc.net/problem/1013) |[물병](https://www.acmicpc.net/problem/1052) |[단어만들기](https://www.acmicpc.net/problem/1148) | [친구](https://www.acmicpc.net/problem/1058) | [행렬](https://www.acmicpc.net/problem/1080) |                                                              |
 | 4주차  |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
 | 5주차  |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
 | 6주차  |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
@@ -108,7 +108,7 @@
   
 <div markdown="1">      
   
-- 
+- [BOJ] 1074, 2839 [JUNGOL] 1828
 - 
 - 
 - 
