@@ -15,6 +15,7 @@ public class Main_boj_1987_방수영 {
 	static int max = 1;
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
+		
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(in.readLine());
 		
