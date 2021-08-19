@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main_boj_1992_방수영 {
+	
 	static int N;
 	static int[][] arr;
 	static StringBuilder result = new StringBuilder();

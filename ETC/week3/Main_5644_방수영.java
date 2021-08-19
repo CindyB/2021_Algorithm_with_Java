@@ -158,7 +158,6 @@ public class Main_5644_방수영 {
 		@Override
 		public String toString() {
 			return "BC [x=" + x + ", y=" + y + ", c=" + c + ", p=" + p + "]";
-		}
-				
+		}				
 	}
 }
