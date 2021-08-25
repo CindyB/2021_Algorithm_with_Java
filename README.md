@@ -112,11 +112,24 @@
 - [BOJ] 1074, 2839 [JUNGOL] 1828
 - [SW Expert] 5644 [BOJ] 1992
 - [BOJ]3109, 1987 [SW Expert] 1247
-- 
+- [SW EXpert] 1223, 3234 [BOJ] 15683
 </div>
 </details>
 
+<details>
+<summary>Week 4</summary>
+  
+<div markdown="1">      
+  
+- [SW Expert] 1238 [BOJ] 1759
+- [BOJ] 1753 [SW Expert]7465, 3289
+- 
+- 
+- 
+</div>
+</details>
 &nbsp;
+
 ## 👩 기록
 #### 2021-08-10 기준
 ![image](https://user-images.githubusercontent.com/46207314/128809615-f5fd7352-6e29-4f9c-8c0d-2d9e905ce849.png)
@@ -124,5 +137,6 @@
 ![image](https://user-images.githubusercontent.com/46207314/129075304-a006d4c6-3dd8-471f-90a8-3f02fff7ae42.png)
 #### 2021-08-16 기준
 ![image](https://user-images.githubusercontent.com/46207314/129487784-d6ff77ee-a541-4596-b42c-740b92d4fea0.png)
-
+#### 2021-08-25 기준
+![image](https://user-images.githubusercontent.com/46207314/130708912-dda99692-ae65-4807-90ee-744464b6c2f6.png)
 
