@@ -36,10 +36,10 @@
 | 3주차  | [Contact](https://www.acmicpc.net/problem/1013) |[물병](https://www.acmicpc.net/problem/1052) |[단어만들기](https://www.acmicpc.net/problem/1148) | [친구](https://www.acmicpc.net/problem/1058) | [행렬](https://www.acmicpc.net/problem/1080) |                                                              |
 | 4주차  | [단어뒤집기2](https://www.acmicpc.net/problem/17413)|[직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)|[블랙잭](https://www.acmicpc.net/problem/2798)|[색종이 -2](https://www.acmicpc.net/problem/2567) | [영식이와 친구들](https://www.acmicpc.net/problem/1592)| [참외밭](https://www.acmicpc.net/problem/2477) |
 | 5주차  |[RGB거리](https://www.acmicpc.net/problem/1149)|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[동전 0](https://www.acmicpc.net/problem/11047)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|                                                   |카카오 코테 대비 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) [징검다리건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) [3차압축](https://programmers.co.kr/learn/courses/30/lessons/17684) |
-| 6주차  |[숨바꼭질](https://www.acmicpc.net/problem/1697)| [연속합](https://www.acmicpc.net/problem/1912) | [토마토](https://www.acmicpc.net/problem/7576) | [연결요소의 개수](https://www.acmicpc.net/problem/11724) |                                                  |                                                              |
+| 6주차  |[숨바꼭질](https://www.acmicpc.net/problem/1697)| [연속합](https://www.acmicpc.net/problem/1912) | [토마토](https://www.acmicpc.net/problem/7576) | [연결요소의 개수](https://www.acmicpc.net/problem/11724) |                                                  | |
 | 7주차  |[정수삼각형](https://www.acmicpc.net/problem/1932)|[포도주 시식](https://www.acmicpc.net/problem/2156) |[Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|                                                   |                                                              |
 | 8주차  | [2×n 타일링](https://www.acmicpc.net/problem/11726)|[이천수](https://www.acmicpc.net/problem/2193)|[다리 놓기](https://www.acmicpc.net/problem/1010)|                                                       |                                                   |                                                              |
-| 9주차  |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
+| 9주차  | [LCS](https://www.acmicpc.net/problem/9251)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|                                                   |                                                              |
 | 10주차 |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
 | 11주차 |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
 | 12주차 |                                                |                                                     |                                                     |                                                       |                                                   |                                                              |
@@ -123,7 +123,7 @@
   
 - [SW Expert] 1238 [BOJ] 1759
 - [BOJ] 1753 [SW Expert]7465, 3289
-- [BOJ] 16236, 10026 [SW Expert] 1251
+- [BOJ] **16236**, 10026 [SW Expert] 1251
 
 </div>
 </details>
@@ -134,13 +134,31 @@
 <div markdown="1">      
   
 - [WS] 아파트색칠하기, 막대만들기 [BOJ] 1463, 1149
-- [SW Expert] 3124 [BOJ] 1600, 2636
-- 
-- 
-- 
+- [SW Expert] 3124 [BOJ] 1600, **2636**
+- [SW Expert] 3307, **1263** [BOJ] **9205**
+- [SW Expert] **1767** [BOJ] **14502, 17472**  => 백신접종으로 안 푼 상태
 </div>
 </details>
-&nbsp;
+
+<details>
+<summary>Week 6</summary>
+  
+<div markdown="1">      
+  
+- [BOJ] 17144, 7576 [JO] 1681
+- 추석 연휴
+</div>
+</details>
+
+<details>
+<summary>Week 7</summary>
+  
+<div markdown="1">      
+  
+- [SW Expert] 5607
+- [BOJ] **1149, 4485** [SW Expert] **5643**
+</div>
+</details>
 
 &nbsp;
 ### ⬛ ETC2
