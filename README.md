@@ -157,6 +157,8 @@
   
 - [SW Expert] 5607
 - [BOJ] **1149, 4485** [SW Expert] **5643**
+- [SW Expert] 1953, 1249
+- [BOJ] 17143 [SW Expert] 4013
 </div>
 </details>
 
