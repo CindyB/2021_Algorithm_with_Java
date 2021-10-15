@@ -162,6 +162,17 @@
 </div>
 </details>
 
+<details>
+<summary>Week 8</summary>
+  
+<div markdown="1">      
+  
+- [SW Expert] 5656, 2577
+- [BOJ] 17471, 2239, 4014
+
+</div>
+</details>
+
 &nbsp;
 ### ⬛ ETC2
 <details>
